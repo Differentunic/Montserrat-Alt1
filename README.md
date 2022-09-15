@@ -10,11 +10,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Differentunic/Montserrat-Light-Alt1">
+  <a href="https://github.com/Differentunic/Montserrat-Alt1">
     <img src="https://avatars.githubusercontent.com/u/66045103?v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Montserrat-Light-Alt1</h3>
+  <h3 align="center">Montserrat-Alt1</h3>
 
   <p align="center">
     A custom version of Montserrat Light
@@ -22,11 +22,11 @@
     <a href="https://github.com/Differentunic?tab=repositories"><strong>More Stuff I Made »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Differentunic/Montserrat-Light-Alt1/releases/latest">Download</a>
+    <a href="https://github.com/Differentunic/Montserrat-Alt1/releases/latest">Download</a>
     ·
-    <a href="https://github.com/Differentunic/Montserrat-Light-Alt1/issues">Report Bug</a>
+    <a href="https://github.com/Differentunic/Montserrat-Alt1/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Differentunic/Montserrat-Light-Alt1/issues">Request Feature</a>
+    <a href="https://github.com/Differentunic/Montserrat-Alt1/issues">Request Feature</a>
   </p>
   <a href="https://www.buymeacoffee.com/Differentunic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Montserrat-Light-Alt1][product-screenshot]](https://user-images.githubusercontent.com/66045103/153519240-838ffe47-cf08-46e9-af5a-eb1d00000c2b.png)
+[![Montserrat-Alt1][product-screenshot]](https://user-images.githubusercontent.com/66045103/153519240-838ffe47-cf08-46e9-af5a-eb1d00000c2b.png)
 
 I wanted to create a font that was simple, clean and most of all, looked good. The Montserrat font family is an amazing font that offers many weights and is clean and simple. I decided that I could modify Montserrat to fit my ideas, which took about a week to get everything done. I use this font in some of my product design stuff, and it makes titles stand out from the rest of the document.
 
@@ -77,7 +77,7 @@ Thanks for checking out my repo! Be sure to share with friends.
 8. Done!  
 
 
-* #### [Download here](https://github.com/Differentunic/Montserrat-Light-Alt1/releases/latest/Montserrat-Light-Alt1.otf) 
+* #### [Download here](https://github.com/Differentunic/Montserrat-Alt1/releases/latest/Montserrat-Light-Alt1.otf) 
 
 <p align="right"><a href="#top">back to top</a></p>
 
@@ -94,7 +94,7 @@ copy and paste the whole `<link>` tag in the `<head> </head>` of your html file.
 
 <ins>NOTE:</ins> If you are using a framework such as vue.js, paste the `<link>` tag in the index.html file of your project.
 ```html
-<link href="https://raw.githubusercontent.com/Differentunic/Montserrat-Light-Alt1/main/import.css" rel="stylesheet">
+<link href="https://raw.githubusercontent.com/Differentunic/Montserrat-Alt1/main/import.css" rel="stylesheet">
 ```
 
 <br />
@@ -103,11 +103,11 @@ copy and paste the whole `<link>` tag in the `<head> </head>` of your html file.
 copy and paste the whole ```@font-face``` selector in the your main css file.  There is also the option to put the css in a `<style></style>` tag that is within the `<head><head/>` of your html file.
 ```css
 @font-face {
-  font-family: 'Montserrat-Light-Alt1';
+  font-family: 'Montserrat-Alt1';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://github.com/Differentunic/Montserrat-Light-Alt1/blob/main/Montserrat-Light-Alt1.woff2?raw=true) format('woff2');
+  src: url(https://github.com/Differentunic/Montserrat-Alt1/blob/main/Montserrat-Alt1.woff2?raw=true) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 ```
@@ -117,7 +117,7 @@ copy and paste the whole ```@font-face``` selector in the your main css file.  T
 ### CSS rules to specify families 
 <ins>NOTE:</ins> Use with HTML or CSS
 ```css
-font-family: 'Montserrat-Light-Alt1', sans-serif;
+font-family: 'Montserrat-Alt1', sans-serif;
 ```
 
 <p align="right"><a href="#top">back to top</a></p>
@@ -132,7 +132,7 @@ font-family: 'Montserrat-Light-Alt1', sans-serif;
 - [ ] Fix font spacing
 - [ ] Create font all Montserrat weights
 
-See the [open issues](https://github.com/Differentunic/Montserrat-Light-Alt/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Differentunic/Montserrat-Alt/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#top">back to top</a></p>
 
@@ -176,14 +176,14 @@ Distributed under the OFL License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Differentunic/Montserrat-Light-Alt1.svg?style=for-the-badge
-[contributors-url]: https://github.com/Differentunic/Montserrat-Light-Alt1/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Differentunic/Montserrat-Light-Alt1.svg?style=for-the-badge
-[forks-url]: https://github.com/Differentunic/Montserrat-Light-Alt1/network/members
-[stars-shield]: https://img.shields.io/github/stars/Differentunic/Montserrat-Light-Alt1.svg?style=for-the-badge
-[stars-url]: https://github.com/Differentunic/Montserrat-Light-Alt1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Differentunic/Montserrat-Light-Alt1.svg?style=for-the-badge
-[issues-url]: https://github.com/Differentunic/Montserrat-Light-Alt1/issues
-[license-shield]: https://img.shields.io/github/license/Differentunic/Montserrat-Light-Alt1.svg?style=for-the-badge
-[license-url]: https://github.com/Differentunic/Montserrat-Light-Alt1/blob/main/LICENCE
+[contributors-shield]: https://img.shields.io/github/contributors/Differentunic/Montserrat-Alt1.svg?style=for-the-badge
+[contributors-url]: https://github.com/Differentunic/Montserrat-Alt1/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Differentunic/Montserrat-Alt1.svg?style=for-the-badge
+[forks-url]: https://github.com/Differentunic/Montserrat-Alt1/network/members
+[stars-shield]: https://img.shields.io/github/stars/Differentunic/Montserrat-Alt1.svg?style=for-the-badge
+[stars-url]: https://github.com/Differentunic/Montserrat-Alt1/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Differentunic/Montserrat-Alt1.svg?style=for-the-badge
+[issues-url]: https://github.com/Differentunic/Montserrat-Alt1/issues
+[license-shield]: https://img.shields.io/github/license/Differentunic/Montserrat-Alt1.svg?style=for-the-badge
+[license-url]: https://github.com/Differentunic/Montserrat-Alt1/blob/main/LICENCE
 [product-screenshot]: https://user-images.githubusercontent.com/66045103/153519240-838ffe47-cf08-46e9-af5a-eb1d00000c2b.png
