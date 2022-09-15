@@ -111,7 +111,9 @@ Similarly, you could link to the same asset as you would any other CSS filter, i
 
 <br />
 
-Then we can use it to style elements:
+### How To Use It
+
+After importing the font into your `CSS` or `HTML` file, can use it to style elements:
 ```css
 body {
   font-family: 'Montserrat-Alt1', sans-serif;
@@ -121,15 +123,6 @@ body {
 
 <br />
 
-Then we can use it to style elements:
-```css
-body {
-  font-family: 'Montserrat-Alt1', sans-serif;
-  font-weight: 400;
-}
-```
-
-<br />
 
 
 
