@@ -137,7 +137,7 @@ body {
 - [x] Create css file for importing font
 - [x] Fix font spacing
 - [x] Create font all Montserrat weights
-- [] Create Italic version
+- [ ] Create Italic version
 
 See the [open issues](https://github.com/Differentunic/Montserrat-Alt/issues) for a full list of proposed features (and known issues).
 
