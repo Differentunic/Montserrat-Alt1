@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Differentunic/Montserrat-Alt1">
+  <a href="https://github.com/Differentunic">
     <img src="https://avatars.githubusercontent.com/u/66045103?v=4" alt="Logo" width="80" height="80">
   </a>
 
@@ -67,15 +67,17 @@ Thanks for checking out my repo! Be sure to share with friends.
 <!-- Installation For PC -->
 ## Installation - PC
 
-1. Download the latest `Montserrat-Light-Alt1.otf`. 
-2. Open the `Montserrat-Light-Alt1.otf` that you just downloaded.  
-3. Depending on your system, a dialog should appear showing a preview of the font.  
-4. Click the `INSTALL` button.  
-5. If the font is already installed a dialog will appear asking if you want to replace it.   
-6. Click `YES`  
-7. Once the installation is finished, you can close the font preview.  
-8. Done!  
+1. Download the latest `Montserrat-Alt1-<Version Number>.zip`
+2. Extract `Montserrat-Alt1-<Version Number>.zip`
+3. Open the `fonts` folder, where you will find `otf` and `ttf` fonts
+4. Open the folder containing your chosen font type, and open the weight you want
+5. Depending on your system, a dialog should appear showing a preview of the font
+6. Click the `INSTALL` button
+7. If the font is already installed a dialog will appear asking if you want to replace it
+8. Click `YES`  
+9. Once the installation is finished, you can close the font preview
 
+<br />
 
 * #### [Download here](https://github.com/Differentunic/Montserrat-Alt1/releases/latest/Montserrat-Light-Alt1.otf) 
 
@@ -85,40 +87,51 @@ Thanks for checking out my repo! Be sure to share with friends.
 <!-- Installation For Web -->
 ## Installation - Web
 
-<ins>NOTE:</ins> Choose either **HTML** or **CSS**
-
 <br />
 
-### HTML
-copy and paste the whole `<link>` tag in the `<head> </head>` of your html file.  
+### CSS
+You can import the file into your stylesheet as follows:
 
-<ins>NOTE:</ins> If you are using a framework such as vue.js, paste the `<link>` tag in the index.html file of your project.
-```html
-<link href="https://raw.githubusercontent.com/Differentunic/Montserrat-Alt1/main/import.css" rel="stylesheet">
+<ins>NOTE:</ins> The directory where the stylesheet is placed.
+```css
+@import url("static/fonts/Montserrat/fonts/webfonts/Montserrat-Alt1.css");
 ```
 
 <br />
 
-### CSS
-copy and paste the whole ```@font-face``` selector in the your main css file.  There is also the option to put the css in a `<style></style>` tag that is within the `<head><head/>` of your html file.
+### HTML
+Similarly, you could link to the same asset as you would any other CSS filter, in the \<head> of the HTML document rather than in the CSS:
+
+<ins>NOTE:</ins> The directory where the stylesheet is placed.
+```html
+<link rel="stylesheet" type="text/css" href="static/fonts/Montserrat/fonts/webfonts/Montserrat-Alt1.css">
+```
+
+<ins>NOTE:</ins> If you are using a framework such as vue.js, paste the `<link>` tag in the index.html file of your project.
+
+<br />
+
+Then we can use it to style elements:
 ```css
-@font-face {
-  font-family: 'Montserrat-Alt1';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://github.com/Differentunic/Montserrat-Alt1/blob/main/Montserrat-Alt1.woff2?raw=true) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+body {
+  font-family: 'Montserrat-Alt1', sans-serif;
+  font-weight: 400;
+}
+``` 
+
+<br />
+
+Then we can use it to style elements:
+```css
+body {
+  font-family: 'Montserrat-Alt1', sans-serif;
+  font-weight: 400;
 }
 ```
 
 <br />
 
-### CSS rules to specify families 
-<ins>NOTE:</ins> Use with HTML or CSS
-```css
-font-family: 'Montserrat-Alt1', sans-serif;
-```
+
 
 <p align="right"><a href="#top">back to top</a></p>
 
