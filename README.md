@@ -79,7 +79,7 @@ Thanks for checking out my repo! Be sure to share with friends.
 
 <br />
 
-* #### [Download here](https://github.com/Differentunic/Montserrat-Alt1/releases/latest/Montserrat-Light-Alt1.otf) 
+* #### [Download here](https://github.com/Differentunic/Montserrat-Alt1/releases/latest) 
 
 <p align="right"><a href="#top">back to top</a></p>
 
