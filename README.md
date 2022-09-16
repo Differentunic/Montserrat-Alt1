@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Montserrat-Alt1][product-screenshot]](https://user-images.githubusercontent.com/66045103/153519240-838ffe47-cf08-46e9-af5a-eb1d00000c2b.png)
+[![Montserrat-Alt1][product-screenshot]](https://user-images.githubusercontent.com/66045103/190619819-6aed41f6-58e7-420a-97d2-ed3eb6d27a01.png)
 
 I wanted to create a font that was simple, clean and most of all, looked good. The Montserrat font family is an amazing font that offers many weights and is clean and simple. I decided that I could modify Montserrat to fit my ideas, which took about a week to get everything done. I use this font in some of my product design stuff, and it makes titles stand out from the rest of the document.
 
