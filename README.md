@@ -193,4 +193,4 @@ Distributed under the OFL License. See `LICENSE` for more information.
 [issues-url]: https://github.com/Differentunic/Montserrat-Alt1/issues
 [license-shield]: https://img.shields.io/github/license/Differentunic/Montserrat-Alt1.svg?style=for-the-badge
 [license-url]: https://github.com/Differentunic/Montserrat-Alt1/blob/main/LICENCE
-[product-screenshot]: https://user-images.githubusercontent.com/66045103/153519240-838ffe47-cf08-46e9-af5a-eb1d00000c2b.png
+[product-screenshot]: https://user-images.githubusercontent.com/66045103/190619819-6aed41f6-58e7-420a-97d2-ed3eb6d27a01.png
