@@ -1,0 +1,82 @@
+/** =================== Montserrat-Alt1 =================== **/
+
+/** Montserrat-Alt1 Thin **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 100;
+    font-style: normal;
+    src: url("Montserrat-Alt1-Thin.woff2") format("woff2"),
+         url("Montserrat-Alt1-Thin.woff") format("woff");
+}
+
+/** Montserrat-Alt1 ExtraLight **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 200;
+    font-style: normal;
+    src: url("Montserrat-Alt1-ExtraLight.woff2") format("woff2"),
+         url("Montserrat-Alt1-ExtraLight.woff") format("woff");
+}
+
+/** Montserrat-Alt1 Light **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 300;
+    font-style: normal;
+    src: url("Montserrat-Alt1-Light.woff2") format("woff2"),
+         url("Montserrat-Alt1-Light.woff") format("woff");
+}
+
+/** Montserrat-Alt1 Regular **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 400;
+    font-style: normal;
+    src: url("Montserrat-Alt1-Regular.woff2") format("woff2"),
+         url("Montserrat-Alt1-Regular.woff") format("woff");
+}
+
+/** Montserrat-Alt1 Medium **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 500;
+    font-style: normal;
+    src: url("Montserrat-Alt1-Medium.woff2") format("woff2"),
+         url("Montserrat-Alt1-Medium.woff") format("woff");
+}
+
+/** Montserrat-Alt1 SemiBold **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 600;
+    font-style: normal;
+    src: url("Montserrat-Alt1-SemiBold.woff2") format("woff2"),
+         url("Montserrat-Alt1-SemiBold.woff") format("woff");
+}
+
+/** Montserrat-Alt1 Bold **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 700;
+    font-style: normal;
+    src: url("Montserrat-Alt1-Bold.woff2") format("woff2"),
+         url("Montserrat-Alt1-Bold.woff") format("woff");
+}
+
+/** Montserrat-Alt1 ExtraBold **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 800;
+    font-style: normal;
+    src: url("Montserrat-Alt1-ExtraBold.woff2") format("woff2"),
+         url("Montserrat-Alt1-ExtraBold.woff") format("woff");
+}
+
+/** Montserrat-Alt1 Black **/
+@font-face {
+    font-family: "Montserrat-Alt1";
+    font-weight: 900;
+    font-style: normal;
+    src: url("Montserrat-Alt1-Black.woff2") format("woff2"),
+         url("Montserrat-Alt1-Black.woff") format("woff");
+}
