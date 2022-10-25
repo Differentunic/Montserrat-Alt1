@@ -139,7 +139,7 @@ body {
 - [x] Create font all Montserrat weights
 - [ ] Create Italic version
 
-See the [open issues](https://github.com/Differentunic/Montserrat-Alt/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Differentunic/Montserrat-Alt1/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#top">back to top</a></p>
 
