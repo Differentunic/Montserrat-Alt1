@@ -1,0 +1,49 @@
+{
+glyphname = wgrave.sc.ss01;
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+alignment = -1;
+ref = w.sc.ss01;
+},
+{
+pos = (231,35);
+ref = gravecomb;
+}
+);
+width = 1062;
+},
+{
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+alignment = -1;
+ref = w.sc.ss01;
+},
+{
+pos = (226,37);
+ref = gravecomb;
+}
+);
+width = 1019;
+},
+{
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+alignment = -1;
+ref = w.sc.ss01;
+},
+{
+pos = (222,42);
+ref = gravecomb;
+}
+);
+width = 1042;
+}
+);
+leftKerningGroup = u.sc;
+rightKerningGroup = u.sc;
+}

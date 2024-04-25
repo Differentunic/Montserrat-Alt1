@@ -1,0 +1,192 @@
+{
+color = 3;
+glyphname = I.ss01;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{258, 0}";
+},
+{
+name = ogonek;
+position = "{376, 0}";
+},
+{
+name = top;
+position = "{258, 700}";
+},
+{
+name = topleft;
+position = "{-20, 700}";
+}
+);
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(376,20,l),
+(376,681,l),
+(140,681,l),
+(140,20,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(481,0,l),
+(481,178,l),
+(35,178,l),
+(35,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(481,522,l),
+(481,700,l),
+(35,700,l),
+(35,522,l)
+);
+}
+);
+width = 516;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{232, 0}";
+},
+{
+name = ogonek;
+position = "{289, 0}";
+},
+{
+name = top;
+position = "{232, 700}";
+},
+{
+name = topleft;
+position = "{-5, 700}";
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(289,15,l),
+(289,686,l),
+(174,686,l),
+(174,15,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(421,0,l),
+(421,96,l),
+(42,96,l),
+(42,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(421,604,l),
+(421,700,l),
+(42,700,l),
+(42,604,l)
+);
+}
+);
+};
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+closed = 1;
+nodes = (
+(288,15,l),
+(288,686,l),
+(174,686,l),
+(174,15,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(420,0,l),
+(420,99,l),
+(42,99,l),
+(42,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(420,601,l),
+(420,700,l),
+(42,700,l),
+(42,601,l)
+);
+}
+);
+width = 462;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{211, 0}";
+},
+{
+name = ogonek;
+position = "{221, 0}";
+},
+{
+name = top;
+position = "{211, 700}";
+},
+{
+name = topleft;
+position = "{7, 700}";
+}
+);
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(221,10,l),
+(221,690,l),
+(201,690,l),
+(201,10,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(375,0,l),
+(375,19,l),
+(47,19,l),
+(47,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(375,681,l),
+(375,700,l),
+(47,700,l),
+(47,681,l)
+);
+}
+);
+width = 422;
+}
+);
+leftKerningGroup = I.ss01;
+rightKerningGroup = I.ss01;
+}

@@ -1,0 +1,64 @@
+{
+glyphname = "El-cy.loclBGR";
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,700,l),
+(4,0,l),
+(236,0,l),
+(484,591,l),
+(333,591,l),
+(574,0,l),
+(828,0,l),
+(532,700,l)
+);
+}
+);
+width = 832;
+},
+{
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+closed = 1;
+nodes = (
+(318,700,l),
+(11,0,l),
+(126,0,l),
+(407,639,l),
+(335,639,l),
+(613,0,l),
+(738,0,l),
+(431,700,l)
+);
+}
+);
+width = 749;
+},
+{
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(339,700,l),
+(24,0,l),
+(47,0,l),
+(354,684,l),
+(344,684,l),
+(651,0,l),
+(674,0,l),
+(359,700,l)
+);
+}
+);
+width = 698;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+}

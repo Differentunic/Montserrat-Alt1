@@ -1,0 +1,50 @@
+{
+glyphname = "Odieresis-cy";
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+alignment = -1;
+ref = "O-cy";
+},
+{
+pos = (118,0);
+ref = dieresiscomb.case;
+}
+);
+width = 836;
+},
+{
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+alignment = -1;
+ref = "O-cy";
+},
+{
+pos = (123,0);
+ref = dieresiscomb.case;
+}
+);
+width = 846;
+},
+{
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+alignment = -1;
+ref = "O-cy";
+},
+{
+pos = (128,0);
+ref = dieresiscomb.case;
+}
+);
+width = 857;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 1254;
+}

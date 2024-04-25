@@ -1,0 +1,50 @@
+{
+glyphname = ohorndotbelow;
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+pos = (39,0);
+ref = dotbelowcomb;
+}
+);
+width = 678;
+},
+{
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+pos = (20,0);
+ref = dotbelowcomb;
+}
+);
+width = 640;
+},
+{
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+pos = (5,0);
+ref = dotbelowcomb;
+}
+);
+width = 610;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = ohorn;
+unicode = 7907;
+}

@@ -1,0 +1,79 @@
+{
+glyphname = dcroat.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{344, 0}";
+},
+{
+name = center;
+position = "{193, 292}";
+},
+{
+name = top;
+position = "{336, 582}";
+}
+);
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+alignment = -1;
+ref = eth.sc;
+}
+);
+width = 738;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{354, 0}";
+},
+{
+name = center;
+position = "{191, 286}";
+},
+{
+name = top;
+position = "{335, 570}";
+}
+);
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+alignment = -1;
+ref = eth.sc;
+}
+);
+width = 724;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{362, 0}";
+},
+{
+name = center;
+position = "{189, 280}";
+},
+{
+name = top;
+position = "{334, 559}";
+}
+);
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+alignment = -1;
+ref = eth.sc;
+}
+);
+width = 713;
+}
+);
+leftKerningGroup = h.sc;
+rightKerningGroup = o.sc;
+}

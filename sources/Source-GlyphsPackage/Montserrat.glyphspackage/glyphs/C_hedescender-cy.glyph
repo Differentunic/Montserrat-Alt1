@@ -1,0 +1,51 @@
+{
+color = 9;
+glyphname = "Chedescender-cy";
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+alignment = -1;
+ref = "Che-cy";
+},
+{
+pos = (440,0);
+ref = "descender-cy.case";
+}
+);
+width = 810;
+},
+{
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+alignment = -1;
+ref = "Che-cy";
+},
+{
+pos = (478,0);
+ref = "descender-cy.case";
+}
+);
+width = 768;
+},
+{
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+alignment = -1;
+ref = "Che-cy";
+},
+{
+pos = (514,0);
+ref = "descender-cy.case";
+}
+);
+width = 737;
+}
+);
+leftKerningGroup = "Che-cy";
+rightKerningGroup = "De-cy";
+unicode = 1206;
+}

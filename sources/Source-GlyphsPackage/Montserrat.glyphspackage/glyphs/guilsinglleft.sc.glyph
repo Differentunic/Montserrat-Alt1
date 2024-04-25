@@ -1,0 +1,78 @@
+{
+glyphname = guilsinglleft.sc;
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(329,111,l),
+(209,291,l),
+(329,471,l),
+(149,471,l),
+(25,291,l),
+(149,111,l)
+);
+}
+);
+width = 344;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(264,112,l),
+(137,285,l),
+(264,458,l),
+(173,458,l),
+(44,285,l),
+(173,112,l)
+);
+}
+);
+};
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+closed = 1;
+nodes = (
+(264,112,l),
+(137,285,l),
+(264,458,l),
+(173,458,l),
+(44,285,l),
+(173,112,l)
+);
+}
+);
+width = 296;
+},
+{
+guides = (
+{
+position = "{0, 374}";
+}
+);
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,113,l),
+(82,279,l),
+(214,446,l),
+(191,446,l),
+(58,279,l),
+(191,113,l)
+);
+}
+);
+width = 259;
+}
+);
+leftKerningGroup = hyphen;
+rightKerningGroup = guilsinglleft.sc;
+}

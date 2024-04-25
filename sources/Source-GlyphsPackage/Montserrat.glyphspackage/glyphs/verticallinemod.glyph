@@ -1,0 +1,66 @@
+{
+glyphname = verticallinemod;
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(173,497,l),
+(173,701,l),
+(29,701,l),
+(29,497,l)
+);
+}
+);
+width = 202;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(125,508,l),
+(125,700,l),
+(50,700,l),
+(50,508,l)
+);
+}
+);
+};
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+closed = 1;
+nodes = (
+(125,508,l),
+(125,700,l),
+(50,700,l),
+(50,508,l)
+);
+}
+);
+width = 175;
+},
+{
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(87,519,l),
+(87,699,l),
+(67,699,l),
+(67,519,l)
+);
+}
+);
+width = 154;
+}
+);
+leftKerningGroup = verticallinemod;
+rightKerningGroup = verticallinemod;
+unicode = 712;
+}

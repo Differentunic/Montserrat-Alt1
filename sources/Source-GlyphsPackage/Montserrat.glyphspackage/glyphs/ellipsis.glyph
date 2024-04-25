@@ -1,0 +1,62 @@
+{
+glyphname = ellipsis;
+layers = (
+{
+layerId = "80A23A3A-6F8A-47FF-B13B-1FE7B70F65E8";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+pos = (309,0);
+ref = period;
+},
+{
+pos = (618,0);
+ref = period;
+}
+);
+width = 922;
+},
+{
+layerId = "4054872B-F70F-4FA7-B657-FACA7DE5D444";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+pos = (240,0);
+ref = period;
+},
+{
+pos = (481,0);
+ref = period;
+}
+);
+width = 716;
+},
+{
+layerId = "6C677F0D-8978-4FCA-B34D-F7758EC5234D";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+pos = (187,0);
+ref = period;
+},
+{
+pos = (374,0);
+ref = period;
+}
+);
+width = 556;
+}
+);
+leftKerningGroup = period;
+rightKerningGroup = period;
+unicode = 8230;
+}
