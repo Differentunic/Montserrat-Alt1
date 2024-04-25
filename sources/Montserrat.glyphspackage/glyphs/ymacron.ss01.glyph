@@ -1,0 +1,49 @@
+{
+glyphname = ymacron.ss01;
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = y.ss01;
+},
+{
+pos = (48,0);
+ref = macroncomb;
+}
+);
+width = 698;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = y.ss01;
+},
+{
+pos = (37,0);
+ref = macroncomb;
+}
+);
+width = 679;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = y.ss01;
+},
+{
+pos = (29,0);
+ref = macroncomb;
+}
+);
+width = 664;
+}
+);
+leftKerningGroup = u;
+rightKerningGroup = j;
+}

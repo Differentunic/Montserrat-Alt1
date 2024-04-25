@@ -1,0 +1,50 @@
+{
+glyphname = zdotbelow;
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+pos = (-10,0);
+ref = dotbelowcomb;
+}
+);
+width = 570;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+pos = (-30,0);
+ref = dotbelowcomb;
+}
+);
+width = 526;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+pos = (-45,0);
+ref = dotbelowcomb;
+}
+);
+width = 491;
+}
+);
+leftKerningGroup = z;
+rightKerningGroup = z;
+unicode = 7827;
+}

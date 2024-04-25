@@ -1,0 +1,51 @@
+{
+color = 9;
+glyphname = "Tedescender-cy";
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = "Te-cy";
+},
+{
+pos = (190,0);
+ref = "descender-cy.case";
+}
+);
+width = 674;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = "Te-cy";
+},
+{
+pos = (205,0);
+ref = "descender-cy.case";
+}
+);
+width = 612;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = "Te-cy";
+},
+{
+pos = (219,0);
+ref = "descender-cy.case";
+}
+);
+width = 556;
+}
+);
+leftKerningGroup = T;
+rightKerningGroup = T;
+unicode = 1196;
+}

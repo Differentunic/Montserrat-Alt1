@@ -1,0 +1,82 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+closed = 1;
+nodes = (
+(206,139,l),
+(359,508,l),
+(261,508,l),
+(414,139,l),
+(584,139,l),
+(399,561,l),
+(221,561,l),
+(36,139,l)
+);
+}
+);
+width = 620;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(158,142,l),
+(317,525,l),
+(270,525,l),
+(429,142,l),
+(516,142,l),
+(339,558,l),
+(249,558,l),
+(71,142,l)
+);
+}
+);
+};
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+closed = 1;
+nodes = (
+(158,142,l),
+(317,525,l),
+(270,525,l),
+(429,142,l),
+(516,142,l),
+(339,558,l),
+(249,558,l),
+(71,142,l)
+);
+}
+);
+width = 587;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,145,l),
+(285,542,l),
+(277,542,l),
+(441,145,l),
+(463,145,l),
+(292,555,l),
+(270,555,l),
+(99,145,l)
+);
+}
+);
+width = 562;
+}
+);
+leftKerningGroup = asciicircum;
+rightKerningGroup = asciicircum;
+unicode = 94;
+}

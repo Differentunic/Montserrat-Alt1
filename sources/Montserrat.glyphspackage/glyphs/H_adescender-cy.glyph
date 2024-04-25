@@ -1,0 +1,50 @@
+{
+glyphname = "Hadescender-cy";
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = "Ha-cy";
+},
+{
+pos = (477,0);
+ref = "descender-cy.case.short";
+}
+);
+width = 809;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = "Ha-cy";
+},
+{
+pos = (473,0);
+ref = "descender-cy.case.short";
+}
+);
+width = 713;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = "Ha-cy";
+},
+{
+pos = (487,0);
+ref = "descender-cy.case.short";
+}
+);
+width = 660;
+}
+);
+leftKerningGroup = X;
+rightKerningGroup = X;
+unicode = 1202;
+}

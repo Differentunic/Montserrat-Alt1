@@ -1,0 +1,76 @@
+{
+glyphname = increment;
+layers = (
+{
+layerId = "3963A613-E369-4499-B460-72D570FC8EA6";
+name = "Light.Regular Aug 11 16, 21:01";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1,0,l),
+(124,0,l),
+(367,581,l),
+(611,0,l),
+(737,0,l),
+(431,700,l),
+(310,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(155,162,l),
+(574,162,l),
+(574,262,l),
+(155,262,l)
+);
+}
+);
+width = 600;
+},
+{
+guides = (
+{
+position = "{0, 180}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = Delta;
+}
+);
+width = 806;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = Delta;
+}
+);
+width = 740;
+},
+{
+guides = (
+{
+position = "{0, 20}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = Delta;
+}
+);
+width = 688;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 8710;
+}

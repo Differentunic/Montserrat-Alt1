@@ -1,0 +1,64 @@
+{
+glyphname = "Ghestroke-cy.loclBSH";
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+closed = 1;
+nodes = (
+(543,253,l),
+(543,383,l),
+(162,383,l),
+(162,253,l)
+);
+},
+{
+alignment = -1;
+ref = "Ge-cy";
+}
+);
+width = 614;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+closed = 1;
+nodes = (
+(505,280,l),
+(505,365,l),
+(159,365,l),
+(159,280,l)
+);
+},
+{
+alignment = -1;
+ref = "Ge-cy";
+}
+);
+width = 595;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(475,319,l),
+(475,338,l),
+(146,338,l),
+(146,319,l)
+);
+},
+{
+alignment = -1;
+ref = "Ge-cy";
+}
+);
+width = 570;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = F;
+}

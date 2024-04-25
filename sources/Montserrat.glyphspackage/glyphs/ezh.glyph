@@ -1,0 +1,69 @@
+{
+color = 8;
+glyphname = ezh;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{272, 0}";
+},
+{
+name = top;
+position = "{272, 547}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = "dzeabkhasian-cy";
+}
+);
+width = 585;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{228, 0}";
+},
+{
+name = top;
+position = "{228, 532}";
+}
+);
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = "dzeabkhasian-cy";
+}
+);
+width = 534;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{213, 0}";
+},
+{
+name = top;
+position = "{213, 517}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = "dzeabkhasian-cy";
+}
+);
+width = 487;
+}
+);
+leftKerningGroup = ezh;
+rightKerningGroup = ezh;
+unicode = 658;
+}

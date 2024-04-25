@@ -1,0 +1,55 @@
+{
+color = 8;
+glyphname = gstroke.sc.ss01;
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = g.sc.ss01;
+},
+{
+alignment = -1;
+pos = (250,-92);
+ref = strokeshortcomb;
+scale = (0.843,0.753);
+}
+);
+width = 695;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = g.sc.ss01;
+},
+{
+alignment = -1;
+pos = (269,-245);
+ref = strokeshortcomb;
+scale = (0.804,1);
+}
+);
+width = 696;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = g.sc.ss01;
+},
+{
+pos = (264,-250);
+ref = strokeshortcomb;
+scale = (0.774,1);
+}
+);
+width = 673;
+}
+);
+leftKerningGroup = o.sc;
+rightKerningGroup = g.sc;
+}

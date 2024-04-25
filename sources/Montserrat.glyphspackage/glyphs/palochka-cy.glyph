@@ -1,0 +1,119 @@
+{
+glyphname = "palochka-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{166, 0}";
+},
+{
+name = center;
+position = "{166, 370}";
+},
+{
+name = dot;
+position = "{419, 370}";
+},
+{
+name = top;
+position = "{166, 742}";
+},
+{
+name = topright;
+position = "{349, 742}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,0,l),
+(279,742,l),
+(53,742,l),
+(53,0,l)
+);
+}
+);
+width = 332;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{144, 0}";
+},
+{
+name = center;
+position = "{144, 360}";
+},
+{
+name = dot;
+position = "{325, 360}";
+},
+{
+name = top;
+position = "{144, 742}";
+},
+{
+name = topright;
+position = "{285, 742}";
+}
+);
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,0,l),
+(199,742,l),
+(89,742,l),
+(89,0,l)
+);
+}
+);
+width = 288;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{128, 0}";
+},
+{
+name = center;
+position = "{128, 350}";
+},
+{
+name = dot;
+position = "{254, 350}";
+},
+{
+name = top;
+position = "{128, 742}";
+},
+{
+name = topright;
+position = "{238, 742}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(138,0,l),
+(138,742,l),
+(118,742,l),
+(118,0,l)
+);
+}
+);
+width = 256;
+}
+);
+leftKerningGroup = l;
+rightKerningGroup = l;
+unicode = 1231;
+}

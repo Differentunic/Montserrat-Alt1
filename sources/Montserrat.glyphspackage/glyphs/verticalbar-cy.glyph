@@ -1,0 +1,68 @@
+{
+glyphname = "verticalbar-cy";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{150, 0}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,36,l),
+(46,-101,l),
+(256,-101,l),
+(256,36,l)
+);
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{140, 0}";
+}
+);
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,23,l),
+(89,-111,l),
+(193,-111,l),
+(193,23,l)
+);
+}
+);
+width = 282;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{133, 0}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(123,10,l),
+(123,-121,l),
+(143,-121,l),
+(143,10,l)
+);
+}
+);
+width = 266;
+}
+);
+}

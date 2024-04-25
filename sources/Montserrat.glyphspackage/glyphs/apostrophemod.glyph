@@ -1,0 +1,51 @@
+{
+glyphname = apostrophemod;
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+}
+);
+width = 322;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,439,l),
+(132,700,l),
+(58,700,l),
+(55,439,l)
+);
+}
+);
+};
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+}
+);
+width = 247;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+}
+);
+width = 189;
+}
+);
+leftKerningGroup = apostrophemod;
+rightKerningGroup = apostrophemod;
+unicode = 700;
+}

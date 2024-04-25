@@ -1,0 +1,50 @@
+{
+glyphname = "zhedescender-cy";
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = "zhe-cy";
+},
+{
+pos = (688,0);
+ref = "descender-cy.short";
+}
+);
+width = 1010;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = "zhe-cy";
+},
+{
+pos = (659,0);
+ref = "descender-cy.short";
+}
+);
+width = 894;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = "zhe-cy";
+},
+{
+pos = (655,0);
+ref = "descender-cy.short";
+}
+);
+width = 820;
+}
+);
+leftKerningGroup = x;
+rightKerningGroup = x;
+unicode = 1175;
+}

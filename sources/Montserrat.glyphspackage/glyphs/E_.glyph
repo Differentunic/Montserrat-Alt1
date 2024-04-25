@@ -1,0 +1,188 @@
+{
+color = 3;
+glyphname = E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{342, 0}";
+},
+{
+name = ogonek;
+position = "{639, 0}";
+},
+{
+name = top;
+position = "{342, 700}";
+},
+{
+name = topleft;
+position = "{-9, 700}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+closed = 1;
+nodes = (
+(57,270,l),
+(626,270,l),
+(626,440,l),
+(57,440,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(57,522,l),
+(626,522,l),
+(626,700,l),
+(57,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(57,178,l),
+(626,178,l),
+(626,0,l),
+(57,0,l)
+);
+}
+);
+width = 673;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{361, 0}";
+},
+{
+name = ogonek;
+position = "{616, 0}";
+},
+{
+name = top;
+position = "{352, 700}";
+},
+{
+name = topleft;
+position = "{19, 700}";
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(203,309,l),
+(559,309,l),
+(559,401,l),
+(203,401,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(212,604,l),
+(602,604,l),
+(602,700,l),
+(100,700,l),
+(100,0,l),
+(616,0,l),
+(616,96,l),
+(212,96,l)
+);
+}
+);
+};
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,307,l),
+(602,307,l),
+(602,404,l),
+(100,404,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(100,601,l),
+(602,601,l),
+(602,700,l),
+(100,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(100,99,l),
+(602,99,l),
+(602,0,l),
+(100,0,l)
+);
+}
+);
+width = 670;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{376, 0}";
+},
+{
+name = ogonek;
+position = "{599, 0}";
+},
+{
+name = top;
+position = "{359, 700}";
+},
+{
+name = topleft;
+position = "{41, 700}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(133,0,l),
+(584,0,l),
+(584,19,l),
+(133,19,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(133,365,l),
+(584,365,l),
+(584,346,l),
+(133,346,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(133,719,l),
+(584,719,l),
+(584,700,l),
+(133,700,l)
+);
+}
+);
+width = 668;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = E;
+unicode = 69;
+}

@@ -1,0 +1,179 @@
+{
+glyphname = l.ss01;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{232, 0}";
+},
+{
+name = center;
+position = "{163, 370}";
+},
+{
+name = dot;
+position = "{416, 370}";
+},
+{
+name = top;
+position = "{163, 742}";
+},
+{
+name = topright;
+position = "{346, 742}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+closed = 1;
+nodes = (
+(312,-10,o),
+(342,-6,o),
+(376,4,c),
+(367,171,l),
+(358,166,o),
+(341,161,o),
+(326,161,cs),
+(295,161,o),
+(276,179,o),
+(276,214,cs),
+(276,742,l),
+(50,742,l),
+(50,202,ls),
+(50,62,o),
+(138,-10,o),
+(279,-10,cs)
+);
+}
+);
+width = 386;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{207, 0}";
+},
+{
+name = center;
+position = "{142, 360}";
+},
+{
+name = dot;
+position = "{323, 360}";
+},
+{
+name = top;
+position = "{142, 742}";
+},
+{
+name = topright;
+position = "{282, 742}";
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,-6,o),
+(304,-2,o),
+(327,6,c),
+(321,96,l),
+(311,91,o),
+(293,86,o),
+(275,86,cs),
+(223,86,o),
+(197,116,o),
+(197,170,cs),
+(197,742,l),
+(87,742,l),
+(87,162,ls),
+(87,55,o),
+(148,-6,o),
+(255,-6,cs)
+);
+}
+);
+};
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,-6,o),
+(304,-2,o),
+(327,6,c),
+(321,96,l),
+(311,91,o),
+(293,86,o),
+(275,86,cs),
+(223,86,o),
+(197,116,o),
+(197,170,cs),
+(197,742,l),
+(87,742,l),
+(87,162,ls),
+(87,55,o),
+(148,-6,o),
+(255,-6,cs)
+);
+}
+);
+width = 328;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{187, 0}";
+},
+{
+name = center;
+position = "{125, 350}";
+},
+{
+name = dot;
+position = "{251, 350}";
+},
+{
+name = top;
+position = "{125, 742}";
+},
+{
+name = topright;
+position = "{233, 742}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,-3,o),
+(274,1,o),
+(289,7,c),
+(286,25,l),
+(274,20,o),
+(256,16,o),
+(235,16,cs),
+(167,16,o),
+(135,56,o),
+(135,129,cs),
+(135,742,l),
+(115,742,l),
+(115,124,ls),
+(115,48,o),
+(156,-3,o),
+(236,-3,cs)
+);
+}
+);
+width = 283;
+}
+);
+leftKerningGroup = l;
+rightKerningGroup = l.ss01;
+}

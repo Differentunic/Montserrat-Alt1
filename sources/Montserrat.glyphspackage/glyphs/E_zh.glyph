@@ -1,0 +1,69 @@
+{
+color = 8;
+glyphname = Ezh;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{317, 0}";
+},
+{
+name = top;
+position = "{317, 700}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = "Dzeabkhasian-cy";
+}
+);
+width = 654;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 700}";
+}
+);
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = "Dzeabkhasian-cy";
+}
+);
+width = 628;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{287, 0}";
+},
+{
+name = top;
+position = "{287, 700}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = "Dzeabkhasian-cy";
+}
+);
+width = 599;
+}
+);
+leftKerningGroup = "Ereversed-cy";
+rightKerningGroup = Ezh;
+unicode = 439;
+}

@@ -1,0 +1,80 @@
+{
+glyphname = Oslash;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{424, 0}";
+},
+{
+name = top;
+position = "{424, 700}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (24,0);
+ref = slashlongcomb.case;
+}
+);
+width = 848;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{421, 0}";
+},
+{
+name = top;
+position = "{421, 700}";
+}
+);
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (17,0);
+ref = slashlongcomb.case;
+}
+);
+width = 841;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{418, 0}";
+},
+{
+name = top;
+position = "{418, 700}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (9,0);
+ref = slashlongcomb.case;
+}
+);
+width = 836;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 216;
+}

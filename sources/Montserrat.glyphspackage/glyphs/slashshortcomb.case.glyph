@@ -1,0 +1,82 @@
+{
+color = 2;
+glyphname = slashshortcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{300, 401}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+closed = 1;
+nodes = (
+(584,535,l),
+(514,635,l),
+(69,305,l),
+(139,205,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{217, 388}";
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(430,498,l),
+(386,566,l),
+(56,315,l),
+(100,247,l)
+);
+}
+);
+};
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+closed = 1;
+nodes = (
+(433,500,l),
+(383,564,l),
+(53,313,l),
+(103,249,l)
+);
+}
+);
+width = 443;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{153, 377}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(305,478,l),
+(294,492,l),
+(51,313,l),
+(62,299,l)
+);
+}
+);
+width = 322;
+}
+);
+}

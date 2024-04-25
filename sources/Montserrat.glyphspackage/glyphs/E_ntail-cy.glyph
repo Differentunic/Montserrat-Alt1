@@ -1,0 +1,51 @@
+{
+color = 9;
+glyphname = "Entail-cy";
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = "En-cy";
+},
+{
+pos = (516,0);
+ref = "descTail-cy.case";
+}
+);
+width = 866;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = "En-cy";
+},
+{
+pos = (605,0);
+ref = "descTail-cy.case";
+}
+);
+width = 850;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = "En-cy";
+},
+{
+pos = (667,0);
+ref = "descTail-cy.case";
+}
+);
+width = 838;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = "De-cy";
+unicode = 1225;
+}

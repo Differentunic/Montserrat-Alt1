@@ -1,0 +1,182 @@
+{
+color = 1;
+glyphname = "Ii-cy.ss01";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{792, 0}";
+},
+{
+name = top;
+position = "{410, 700}";
+}
+);
+layerId = "7F5881DB-2EE5-490A-B1BD-549FDF0E2A4D";
+name = "Bold.Sep 26 17, 12:44";
+shapes = (
+{
+closed = 1;
+nodes = (
+(246,0,l),
+(521,329,l),
+(521,0,l),
+(753,0,l),
+(753,700,l),
+(574,700,l),
+(297,369,l),
+(297,700,l),
+(65,700,l),
+(65,0,l)
+);
+}
+);
+width = 818;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{798, 0}";
+},
+{
+name = top;
+position = "{410, 700}";
+}
+);
+layerId = "F797EA00-5A95-46CA-BD0A-191ED5FEF579";
+name = "Light.Sep 26 17, 12:41";
+shapes = (
+{
+closed = 1;
+nodes = (
+(678,700,l),
+(664,700,l),
+(144,23,l),
+(155,23,l),
+(155,700,l),
+(135,700,l),
+(135,0,l),
+(149,0,l),
+(669,677,l),
+(658,677,l),
+(658,0,l),
+(678,0,l)
+);
+}
+);
+width = 813;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{672, 0}";
+},
+{
+name = bottomright;
+position = "{808, 0}";
+},
+{
+name = top;
+position = "{420, 700}";
+}
+);
+layerId = "18094669-C400-4FD3-9789-2ECA5EC221AC";
+name = "Light.Oct 6 17, 20:28";
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,0,l),
+(672,662,l),
+(672,0,l),
+(692,0,l),
+(692,700,l),
+(677,700,l),
+(169,38,l),
+(169,700,l),
+(149,700,l),
+(149,0,l)
+);
+}
+);
+width = 841;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{508, 0}";
+},
+{
+name = bottomright;
+position = "{774, 0}";
+},
+{
+name = top;
+position = "{397, 700}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = U.ss01;
+}
+);
+width = 790;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{586, 0}";
+},
+{
+name = bottomright;
+position = "{777, 0}";
+},
+{
+name = top;
+position = "{399, 700}";
+}
+);
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = U.ss01;
+}
+);
+width = 794;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{647, 0}";
+},
+{
+name = bottomright;
+position = "{780, 0}";
+},
+{
+name = top;
+position = "{400, 700}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = U.ss01;
+}
+);
+width = 796;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = H;
+}

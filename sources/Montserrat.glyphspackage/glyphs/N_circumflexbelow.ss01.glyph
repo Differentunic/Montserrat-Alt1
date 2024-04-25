@@ -1,0 +1,109 @@
+{
+glyphname = Ncircumflexbelow.ss01;
+layers = (
+{
+guides = (
+{
+position = "{0, -271}";
+},
+{
+position = "{0, -51}";
+},
+{
+angle = 90;
+position = "{402, 0}";
+}
+);
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = N.ss01;
+},
+{
+alignment = -1;
+pos = (101,-968);
+ref = circumflexcomb.case;
+}
+);
+width = 794;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,0,l),
+(272,554,l),
+(232,556,l),
+(564,0,l),
+(659,0,l),
+(799,700,l),
+(687,700,l),
+(574,146,l),
+(614,144,l),
+(282,700,l),
+(187,700,l),
+(47,0,l)
+);
+}
+);
+};
+guides = (
+{
+position = "{0, -265}";
+},
+{
+position = "{0, -89}";
+},
+{
+angle = 90;
+position = "{404, 0}";
+}
+);
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = N.ss01;
+},
+{
+alignment = -1;
+pos = (104,-981);
+ref = circumflexcomb.case;
+}
+);
+width = 798;
+},
+{
+guides = (
+{
+position = "{0, -259}";
+},
+{
+position = "{0, -123}";
+},
+{
+angle = 90;
+position = "{404, 0}";
+}
+);
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = N.ss01;
+},
+{
+alignment = -1;
+pos = (103,-990);
+ref = circumflexcomb.case;
+}
+);
+width = 800;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = N.ss01;
+}

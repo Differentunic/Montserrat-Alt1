@@ -1,0 +1,49 @@
+{
+glyphname = emacrongrave.sc.ss01;
+layers = (
+{
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
+shapes = (
+{
+alignment = -1;
+ref = e.sc.ss01;
+},
+{
+pos = (24,35);
+ref = macroncomb_gravecomb;
+}
+);
+width = 606;
+},
+{
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
+shapes = (
+{
+alignment = -1;
+ref = e.sc.ss01;
+},
+{
+pos = (-2,38);
+ref = macroncomb_gravecomb;
+}
+);
+width = 557;
+},
+{
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
+shapes = (
+{
+alignment = -1;
+ref = e.sc.ss01;
+},
+{
+pos = (-23,42);
+ref = macroncomb_gravecomb;
+}
+);
+width = 519;
+}
+);
+leftKerningGroup = e.sc.ss01;
+rightKerningGroup = e.sc.ss01;
+}
