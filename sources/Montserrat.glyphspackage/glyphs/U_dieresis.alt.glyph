@@ -3,7 +3,7 @@ color = 9;
 glyphname = Udieresis.alt;
 layers = (
 {
-layerId = "BD685519-2D9C-4E71-A8D1-02B1CCE4EDB0";
+layerId = "DDE74B3B-DE21-4C18-8120-D4C833F6BE2A";
 name = "Bold.Bold [133]";
 shapes = (
 {
@@ -67,7 +67,7 @@ nodes = (
 width = 784;
 },
 {
-layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
 shapes = (
 {
 closed = 1;
@@ -130,8 +130,8 @@ nodes = (
 width = 784;
 },
 {
-layerId = "E112B821-9D2E-4ABE-BE4A-5813740D89B0";
-associatedMasterId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+layerId = "6360E529-B1F4-423A-9ECF-B3CC016B17F8";
+associatedMasterId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
 name = "SemiBold [133]";
 shapes = (
 {
@@ -256,7 +256,7 @@ nodes = (
 }
 );
 };
-layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
 shapes = (
 {
 closed = 1;
@@ -319,7 +319,7 @@ nodes = (
 width = 790;
 },
 {
-layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
 shapes = (
 {
 closed = 1;

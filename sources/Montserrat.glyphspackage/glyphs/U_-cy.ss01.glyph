@@ -9,7 +9,7 @@ name = top;
 position = "{376, 700}";
 }
 );
-layerId = "337AFD97-176A-40A1-9DBE-C876BDF99162";
+layerId = "D593903C-BC50-47D0-B5D5-FFD8CF3F4D38";
 name = "Bold.Oct 6 17, 19:14";
 shapes = (
 {
@@ -48,7 +48,7 @@ name = top;
 position = "{324, 700}";
 }
 );
-layerId = "A8AD1EC6-AA95-4E43-8309-386398915F5D";
+layerId = "35A134C7-6CB7-4314-B6E2-3C96E9479EE1";
 name = "Light.Oct 6 17, 19:14";
 shapes = (
 {
@@ -87,7 +87,7 @@ name = top;
 position = "{392, 700}";
 }
 );
-layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
 shapes = (
 {
 alignment = -1;
@@ -103,7 +103,7 @@ name = top;
 position = "{394, 700}";
 }
 );
-layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
 shapes = (
 {
 alignment = -1;
@@ -119,7 +119,7 @@ name = top;
 position = "{395, 700}";
 }
 );
-layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
 shapes = (
 {
 alignment = -1;

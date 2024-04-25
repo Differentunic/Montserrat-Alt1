@@ -9,7 +9,7 @@ name = top;
 position = "{515, 700}";
 }
 );
-layerId = "AD188A8B-9806-4066-8022-A69BFD51C404";
+layerId = "24D8D031-00E1-47F3-9FE0-8BA3B49301CD";
 name = "Bold.Sep 18 17, 11:13";
 shapes = (
 {
@@ -64,7 +64,7 @@ name = top;
 position = "{539, 700}";
 }
 );
-layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
 shapes = (
 {
 alignment = -1;
@@ -85,7 +85,7 @@ name = top;
 position = "{503, 700}";
 }
 );
-layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
 shapes = (
 {
 alignment = -1;
@@ -106,7 +106,7 @@ name = top;
 position = "{474, 700}";
 }
 );
-layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
 shapes = (
 {
 alignment = -1;

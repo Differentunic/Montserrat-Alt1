@@ -3,7 +3,7 @@ color = 3;
 glyphname = M.ss01;
 layers = (
 {
-layerId = "2D0DE7B9-4345-4040-9790-92F0DE65B0C1";
+layerId = "E553B7A2-3CC0-4E1F-AE4B-85C21B6B7A37";
 name = "Bold.Oct 27 17, 18:09";
 shapes = (
 {
@@ -67,7 +67,7 @@ nodes = (
 width = 1156;
 },
 {
-layerId = "11850B37-36D0-43B0-B595-4F03AF61C06F";
+layerId = "A4067416-F75D-48D9-A9AC-9A018888B438";
 name = Light.Jacques;
 shapes = (
 {
@@ -141,7 +141,7 @@ name = top;
 position = "{598, 700}";
 }
 );
-layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+layerId = "1D080760-4FD1-465A-AE80-6E2F24185885";
 shapes = (
 {
 closed = 1;
@@ -189,8 +189,8 @@ nodes = (
 width = 1212;
 },
 {
-layerId = "88AE98E8-9E1E-4796-AA75-DB2EE64EB08A";
-associatedMasterId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+layerId = "AED0F022-3967-4EB9-8C58-E07196F8ED9D";
+associatedMasterId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
 name = Jacques;
 shapes = (
 {
@@ -325,7 +325,7 @@ nodes = (
 }
 );
 };
-layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+layerId = "BF88A9B2-CED4-4B03-8FC2-F1361A8F7788";
 shapes = (
 {
 closed = 1;
@@ -383,7 +383,7 @@ name = top;
 position = "{614, 700}";
 }
 );
-layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+layerId = "BE9EF097-1901-49F4-A2DE-F2A985D0844B";
 shapes = (
 {
 closed = 1;
