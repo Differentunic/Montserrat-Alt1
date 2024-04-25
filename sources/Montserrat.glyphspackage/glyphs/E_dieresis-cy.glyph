@@ -1,0 +1,50 @@
+{
+glyphname = "Edieresis-cy";
+layers = (
+{
+layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+shapes = (
+{
+alignment = -1;
+ref = "Ereversed-cy";
+},
+{
+pos = (42,0);
+ref = dieresiscomb.case;
+}
+);
+width = 723;
+},
+{
+layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+shapes = (
+{
+alignment = -1;
+ref = "Ereversed-cy";
+},
+{
+pos = (21,0);
+ref = dieresiscomb.case;
+}
+);
+width = 708;
+},
+{
+layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+shapes = (
+{
+alignment = -1;
+ref = "Ereversed-cy";
+},
+{
+pos = (12,0);
+ref = dieresiscomb.case;
+}
+);
+width = 704;
+}
+);
+leftKerningGroup = "Ereversed-cy";
+rightKerningGroup = O;
+unicode = 1260;
+}

@@ -1,0 +1,53 @@
+{
+glyphname = "Ustraitstroke-cy";
+layers = (
+{
+layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+shapes = (
+{
+alignment = -1;
+ref = "Ustrait-cy";
+},
+{
+pos = (53,-167);
+ref = strokeshortcomb;
+scale = (1.081,1);
+}
+);
+width = 766;
+},
+{
+layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+shapes = (
+{
+alignment = -1;
+ref = "Ustrait-cy";
+},
+{
+pos = (11,-186);
+ref = strokeshortcomb;
+scale = (1.081,1);
+}
+);
+width = 676;
+},
+{
+layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+shapes = (
+{
+alignment = -1;
+ref = "Ustrait-cy";
+},
+{
+pos = (-14,-201);
+ref = strokeshortcomb;
+scale = (1.081,1);
+}
+);
+width = 620;
+}
+);
+leftKerningGroup = Y;
+rightKerningGroup = Y;
+unicode = 1200;
+}

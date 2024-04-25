@@ -1,0 +1,95 @@
+{
+color = 1;
+glyphname = "Ghestroke-cy";
+layers = (
+{
+layerId = "FD404054-C1CD-4446-AF86-9826076D96F5";
+name = "Bold.Oct 18 17, 23:51";
+shapes = (
+{
+closed = 1;
+nodes = (
+(542,240,l),
+(542,383,l),
+(28,383,l),
+(28,240,l)
+);
+}
+);
+width = 584;
+},
+{
+layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+shapes = (
+{
+closed = 1;
+nodes = (
+(595,253,l),
+(595,383,l),
+(14,383,l),
+(14,253,l)
+);
+},
+{
+alignment = -1;
+ref = "Ge-cy";
+}
+);
+width = 666;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,280,l),
+(496,365,l),
+(25,365,l),
+(25,280,l)
+);
+}
+);
+};
+layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(533,280,l),
+(533,365,l),
+(27,365,l),
+(27,280,l)
+);
+},
+{
+alignment = -1;
+ref = "Ge-cy";
+}
+);
+width = 623;
+},
+{
+layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(494,319,l),
+(494,338,l),
+(46,338,l),
+(46,319,l)
+);
+},
+{
+alignment = -1;
+ref = "Ge-cy";
+}
+);
+width = 589;
+}
+);
+leftKerningGroup = "Ghestroke-cy";
+rightKerningGroup = F;
+unicode = 1170;
+}

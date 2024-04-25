@@ -1,0 +1,50 @@
+{
+color = 8;
+glyphname = ezhcaron.sc;
+layers = (
+{
+layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+shapes = (
+{
+alignment = -1;
+ref = ezh.sc;
+},
+{
+pos = (-12,35);
+ref = caroncomb;
+}
+);
+width = 594;
+},
+{
+layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+shapes = (
+{
+alignment = -1;
+ref = ezh.sc;
+},
+{
+pos = (-26,38);
+ref = caroncomb;
+}
+);
+width = 563;
+},
+{
+layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+shapes = (
+{
+alignment = -1;
+ref = ezh.sc;
+},
+{
+pos = (-37,42);
+ref = caroncomb;
+}
+);
+width = 546;
+}
+);
+leftKerningGroup = ezh.sc;
+rightKerningGroup = ezh.sc;
+}

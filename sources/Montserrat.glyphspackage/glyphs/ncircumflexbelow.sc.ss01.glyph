@@ -1,0 +1,70 @@
+{
+glyphname = ncircumflexbelow.sc.ss01;
+layers = (
+{
+guides = (
+{
+angle = 90;
+position = "{353, 0}";
+}
+);
+layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+shapes = (
+{
+alignment = -1;
+ref = n.sc.ss01;
+},
+{
+alignment = -1;
+pos = (52,-824);
+ref = circumflexcomb;
+}
+);
+width = 701;
+},
+{
+guides = (
+{
+angle = 90;
+position = "{347, 0}";
+}
+);
+layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+shapes = (
+{
+alignment = -1;
+ref = n.sc.ss01;
+},
+{
+alignment = -1;
+pos = (48,-809);
+ref = circumflexcomb;
+}
+);
+width = 688;
+},
+{
+guides = (
+{
+angle = 90;
+position = "{345, 0}";
+}
+);
+layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+shapes = (
+{
+alignment = -1;
+ref = n.sc.ss01;
+},
+{
+alignment = -1;
+pos = (43,-814);
+ref = circumflexcomb;
+}
+);
+width = 678;
+}
+);
+leftKerningGroup = h.sc;
+rightKerningGroup = n.sc.ss01;
+}

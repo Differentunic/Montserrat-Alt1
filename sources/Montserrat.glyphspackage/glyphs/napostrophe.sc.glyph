@@ -1,0 +1,57 @@
+{
+color = 1;
+export = 0;
+glyphname = napostrophe.sc;
+layers = (
+{
+layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+shapes = (
+{
+alignment = -1;
+pos = (-24,-99);
+ref = apostrophemod;
+},
+{
+alignment = -1;
+pos = (250,0);
+ref = n.sc;
+}
+);
+width = 960;
+},
+{
+layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+shapes = (
+{
+alignment = -1;
+pos = (-50,-100);
+ref = apostrophemod;
+},
+{
+alignment = -1;
+pos = (97,0);
+ref = n.sc;
+}
+);
+width = 797;
+},
+{
+layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+shapes = (
+{
+alignment = -1;
+pos = (-62,-100);
+ref = apostrophemod;
+},
+{
+alignment = -1;
+pos = (27,0);
+ref = n.sc;
+}
+);
+width = 719;
+}
+);
+leftKerningGroup = apostrophemod;
+rightKerningGroup = h.sc;
+}

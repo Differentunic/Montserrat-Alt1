@@ -1,0 +1,183 @@
+{
+color = 1;
+glyphname = "ge-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomleft;
+position = "{46, 0}";
+}
+);
+layerId = "F75EB9D3-7564-4751-8A42-CFA1C86D96A6";
+name = "Bold.Oct 9 17, 10:29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(271,0,l),
+(271,419,l),
+(222,371,l),
+(524,371,l),
+(524,547,l),
+(46,547,l),
+(46,0,l)
+);
+}
+);
+width = 529;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{127, 0}";
+}
+);
+layerId = "602FD79A-3755-4E30-A7EF-9F2130012424";
+name = "Light.Oct 6 17, 17:13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,0,l),
+(147,506,l),
+(139,498,l),
+(452,498,l),
+(452,517,l),
+(127,517,l),
+(127,0,l)
+);
+}
+);
+width = 458;
+},
+{
+anchors = (
+{
+name = _bottomleft;
+position = "{53, 0}";
+},
+{
+name = bottomleft;
+position = "{53, 0}";
+},
+{
+name = bottomright;
+position = "{477, 0}";
+},
+{
+name = top;
+position = "{294, 547}";
+}
+);
+layerId = "50D943A8-B490-4162-9D4B-803713767B01";
+shapes = (
+{
+closed = 1;
+nodes = (
+(278,0,l),
+(278,419,l),
+(229,371,l),
+(531,371,l),
+(531,547,l),
+(53,547,l),
+(53,0,l)
+);
+}
+);
+width = 543;
+},
+{
+anchors = (
+{
+name = _bottomleft;
+position = "{89, 0}";
+},
+{
+name = bottomleft;
+position = "{89, 0}";
+},
+{
+name = bottomright;
+position = "{418, 0}";
+},
+{
+name = top;
+position = "{291, 530}";
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,0,l),
+(199,468,l),
+(173,443,l),
+(497,443,l),
+(497,530,l),
+(89,530,l),
+(89,0,l)
+);
+}
+);
+};
+layerId = "5922F47A-F449-4984-8091-CB5BAF0F3D6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,0,l),
+(199,461,l),
+(173,436,l),
+(489,436,l),
+(489,532,l),
+(89,532,l),
+(89,0,l)
+);
+}
+);
+width = 495;
+},
+{
+anchors = (
+{
+name = _bottomleft;
+position = "{117, 0}";
+},
+{
+name = bottomleft;
+position = "{117, 0}";
+},
+{
+name = bottomright;
+position = "{373, 0}";
+},
+{
+name = top;
+position = "{289, 517}";
+}
+);
+layerId = "09D0C439-80D3-4C25-AAD4-493BFD6E371F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,0,l),
+(137,506,l),
+(129,498,l),
+(453,498,l),
+(453,517,l),
+(117,517,l),
+(117,0,l)
+);
+}
+);
+width = 449;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = "te-cy";
+unicode = 1075;
+}
